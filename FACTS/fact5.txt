@@ -1,0 +1,1 @@
+GitHub is closed source, Gitlab and Gitea are therefore superior
